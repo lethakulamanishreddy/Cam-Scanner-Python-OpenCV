@@ -8,8 +8,11 @@ We follow the following steps:
 *Reading image
 
 *converting to gray scale
+
 *Applying Gaussial Blur
+
 *Finding Canny edges and then counturs
+
 *Finally applying perspective transform to extract bird view
 
 I
