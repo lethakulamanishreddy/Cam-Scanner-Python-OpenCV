@@ -15,4 +15,14 @@ We follow the following steps:
 
 *Finally applying perspective transform to extract bird view
 
-I
+
+#Requirements:
+
+--->opencv
+--->numpy
+
+
+#Installation
+--->pip/conda install requirement
+
+To run the file, opem command prompt, go to the folder directory, and run  'python Camscanner.py'.
