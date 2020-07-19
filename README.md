@@ -25,4 +25,4 @@ We follow the following steps:
 #Installation
 --->pip/conda install requirement
 
-To run the file, opem command prompt, go to the folder directory, and run  'python Camscanner.py'.
+To run the file, opem command prompt, navigate to the project folder , and run  'python Camscanner.py'.
